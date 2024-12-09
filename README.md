@@ -29,7 +29,6 @@
 13. Real-World Projects
 
 ## 1. Introduction
-
 ## 2. Prerequisites: Skills and Tools
   - Programming (Python, NumPy, etc.)
   - Mathematics (linear algebra, calculus)
